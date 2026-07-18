@@ -1,6 +1,6 @@
 # Rock Paper Scissors (C++)
 
-My first C++ console project built using C++.
+My second C++ console project built using C++.
 
 ## 🎮 Features
 
